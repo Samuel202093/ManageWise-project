@@ -1,4 +1,4 @@
-import FAQ from "./components/FAQ/FAQ.JSX";
+import FAQ from "./components/FAQ/FAQ.jsx";
 import Footer from "./components/Footer/Footer";
 import HeroSection from "./components/Hero-Section/HeroSection";
 import Integration from "./components/Integration/Integration";
